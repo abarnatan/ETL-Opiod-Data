@@ -6,7 +6,7 @@ The following three itmes comprise our key deliverables:
 - The Jupyter Notebook titled "Transform_Data(refined).ipynb" contains our Python code that we leveraged in the TRANSFORM process.
 - The CSV files titled "OR_county_Data.csv" and "WA_county_data.csv" are housed in the CSV_files folder, and contain the cleaned data resulting from our TRANSFORM process. 
 - The SQL file titled "SQL_code.sql" contains the code we used to LOAD the final data into Postgres.
--
+
 
 ## BUSINESS QUESTION:
 Our business question is to compare opioid presecription drug rates across two counties in the Portland, oregon metropolitan area. Multnomah County in Oregon and Clark County in Washington.
@@ -35,4 +35,9 @@ WE uploaded both datasets to Postgres, so that end-users (fictional data analyst
 Load Steps:
   1. Created one table for Oregon and one table for Washington, defining the 11 columns and their respecrtive datatypes. (Tables created via SQL CREATE TABLE)
   2. Loaded CSV data files to their respective tables in Postgres.
-  3. Data is loaded and read for analysis!
+  3. Data is loaded and ready for analysis!
+
+## Contact:
+- Alejandro Barnatan
+- ale.barn19@gmail.com
+- 503.867.3455
